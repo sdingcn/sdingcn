@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sdingcn
-- 👀 I’m interested in mathematical logic, theory of computation, and formal methods.
+- 👀 I’m interested in program analysis and theory of computation.
 - 🌱 I’m currently learning LLVM-based program analysis / transformation techniques.
 - 💞️ I’m looking to collaborate on any program analysis projects.
 - 📫 How to reach me: https://www.linkedin.com/in/sdingcn/
