@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- I'll only keep maintaining the pinned projects.
+- I'll only keep maintaining the pinned projects, but I may add other pinned projects later.
 
 <!--
 **sdingcn/sdingcn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
