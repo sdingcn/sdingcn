@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- I'm currently a full-time compiler engineer and am also working on computability/complexity theory as a hobby,
+  so I may not have enough time to keep an eye on my GitHub account.
+- Because now everyone is talking about AI, I also want to share that I'm familiar with "compiler for AI"
+  whose goal is accelerating AI models on special hardware platforms.
 - I'll only keep maintaining the pinned projects, but I may add other pinned projects later.
 
 <!--
