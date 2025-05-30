@@ -3,7 +3,6 @@
 - I'm a compiler engineer and am also working on computability/complexity theory as a hobby.
 - Because now everyone is talking about AI: I'm familiar with "compiler for AI"
   whose goal is accelerating AI models on special hardware platforms.
-- I'll only keep maintaining the pinned projects.
 
 <!--
 **sdingcn/sdingcn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
