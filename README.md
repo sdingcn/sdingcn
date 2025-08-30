@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- I'm a compiler engineer (both for traditional compiler and AI compiler), and am also thinking about computability/complexity theory.
+- I am a compiler engineer and am interested in computability and complexity.
 
 <!--
 **sdingcn/sdingcn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
