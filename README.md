@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 - I am an AI infrastructure engineer and am interested in computability and complexity.
-- @axiomoffice is my second account.
 - [科普长文《递归定理与自指的魔术》](https://github.com/axiomoffice/recursion-theorem-and-self-reference)
 
 <!--
