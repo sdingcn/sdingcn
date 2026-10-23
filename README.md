@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-- I am a compiler engineer and am interested in computability and complexity.
+- I am an AI infrastructure engineer and am interested in computability and complexity.
+- @axiomoffice is my second account.
+- [科普长文《递归定理与自指的魔术》](https://github.com/axiomoffice/recursion-theorem-and-self-reference)
 
 <!--
 **sdingcn/sdingcn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
