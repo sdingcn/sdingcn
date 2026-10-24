@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- I am an AI infrastructure engineer and am interested in computability and complexity.
+- I am currently an AI infrastructure engineer and am interested in computability and complexity.
 - [科普小册子《递归定理与自指的魔术》](https://github.com/axiomoffice/recursion-theorem-and-self-reference)
 
 <!--
