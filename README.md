@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - I am currently an AI infrastructure engineer and am interested in computability and complexity.
-- [科普小册子《递归定理与自指的魔术》](https://github.com/axiomoffice/recursion-theorem-and-self-reference)
+- [科普小册子《递归定理与自指的魔术》](https://github.com/recursiveoffice/recursion-theorem-and-self-reference)
 
 <!--
 **sdingcn/sdingcn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
